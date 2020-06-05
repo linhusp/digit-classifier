@@ -10,7 +10,7 @@
 * `python3`
 * `pip`
 
-## Run the AI
+## Test model
 
 1. `pip install -r requirements.txt`
 1. `python3 gui.py`
