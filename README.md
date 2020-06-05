@@ -2,7 +2,7 @@
 > A digit classifier using Convolutional Neural Network
 
 <p align="center">
-    <img width="1000" src="./screenshot.png">
+    <img width="1000" src="screenshots/screenshot.png">
 </p>
 
 ## Requirements
